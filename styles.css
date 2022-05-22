@@ -176,3 +176,15 @@ body{
 }
 
 a:link { text-decoration: none; }
+
+
+
+
+
+
+
+@media(max-width:900px){
+     .w-50 {
+          width: 80% !important;
+      }
+}
