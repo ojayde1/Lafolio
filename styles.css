@@ -191,3 +191,12 @@ a:link { text-decoration: none; }
           width: 60%;
      }
 }
+
+
+@media(max-width:375px){
+
+     #about .btn{
+          width: 50% !important;
+     }
+
+}
