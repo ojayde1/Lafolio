@@ -183,8 +183,11 @@ a:link { text-decoration: none; }
 
 
 
-@media(max-width:900px){
+@media(max-width:900px)and (min-width: 250px){
      .w-50 {
           width: 80% !important;
       }
+        #about .btn{
+          width: 60%;
+     }
 }
