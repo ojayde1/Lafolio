@@ -100,6 +100,11 @@ body{
 
 #about p{
      font-family: 'Montserrat Alternates', sans-serif
+      display: flex;
+     text-align: center;
+     align-items: center;
+     justify-content: center;
+     font-size: large;
 }
 #about h4{
      font-weight: bold;
