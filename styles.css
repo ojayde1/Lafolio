@@ -40,6 +40,21 @@ body{
      height: 5rem;
 }
 
+.card-title{
+     display: flex;
+     align-items: center;
+     text-align: center;
+     justify-content: center;
+}
+
+.card-text{
+
+     display: flex;
+     align-items: center !important;
+     text-align: center !important;
+     justify-content: center;
+}
+
 .heading-content{
      position: absolute;
      top: 40%;
@@ -75,6 +90,12 @@ body{
 
 #about{
      margin-top: 35px;
+}
+
+.row{
+     display: flex;
+     align-items: center;
+     justify-content: center;
 }
 
 #about p{
