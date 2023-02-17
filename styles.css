@@ -181,6 +181,7 @@ body{
 
 .skill-bar .info .percent{
      font-weight: 700;
+     margin-bottom: 4px;
 }
 
 .skill-bar .bar .html{
