@@ -396,3 +396,24 @@ a:link { text-decoration: none; }
      }
 
 }
+
+@media only screen and (max-width: 768px) {
+  #skill-section {
+    padding: 50px 5%;
+  }
+
+  .skill-main {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+    row-gap: 50px;
+  }
+
+  .skill-bar .bar {
+    height: 6px;
+    border-radius: 10px;
+  }
+
+  .skill-bar .bar span {
+    border-radius: 10px;
+  }
+}
